@@ -1,0 +1,10 @@
+.homepage_container {
+    display: flex;
+    height: 100vh;
+    overflow: auto;
+}
+
+.container_content {
+    flex: 1;
+    background: blue;
+}
